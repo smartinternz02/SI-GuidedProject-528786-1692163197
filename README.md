@@ -19,6 +19,8 @@ Welcome to the Customer Feedback Sentiment Analysis web application for Restaura
 
 5. **Visualization**: In addition to the individual predictions, the web application also offers a visualization of the overall sentiment trends. Users can see the total number of positive and negative reviews for a specific restaurant, which can aid in assessing its overall reputation.
 
+![download](https://github.com/yp723/Analyzing_Customer_Feedback_Sentiments_for_Restaurants/assets/81978809/6b406447-59ba-4660-87bc-4d123d0a8beb)
+
 ## Intended Users
 
 The Customer Feedback Sentiment Analysis web application is intended for:
