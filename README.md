@@ -100,3 +100,6 @@ We are committed to continuously improving the Customer Feedback Sentiment Analy
 ## Conclusion
 
 The Customer Feedback Sentiment Analysis web application aims to empower restaurant-goers and decision-makers by providing valuable insights into the sentiments expressed in customer reviews. Through the combination of NLP and Machine Learning techniques, users can receive instant predictions and visualize overall sentiment trends, facilitating informed decisions and continual improvement in the restaurant industry.
+
+## HTML Pages of the project
+
