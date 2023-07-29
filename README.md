@@ -103,3 +103,20 @@ The Customer Feedback Sentiment Analysis web application aims to empower restaur
 
 ## HTML Pages of the project
 
+Home Page:
+![Screenshot (21).png](..%2F..%2FOneDrive%2FPictures%2FScreenshots%2FScreenshot%20%2821%29.png)
+
+Prediction Page:
+![Screenshot (22).png](..%2F..%2FOneDrive%2FPictures%2FScreenshots%2FScreenshot%20%2822%29.png)
+
+About Page:
+![Screenshot (23).png](..%2F..%2FOneDrive%2FPictures%2FScreenshots%2FScreenshot%20%2823%29.png)
+
+Good Review Prediction:
+![Screenshot (25).png](..%2F..%2FOneDrive%2FPictures%2FScreenshots%2FScreenshot%20%2825%29.png)
+
+Average Review Prediction:
+![Screenshot (27).png](..%2F..%2FOneDrive%2FPictures%2FScreenshots%2FScreenshot%20%2827%29.png)
+
+Bad Review Prediction:
+![Screenshot (26).png](..%2F..%2FOneDrive%2FPictures%2FScreenshots%2FScreenshot%20%2826%29.png)
