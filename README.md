@@ -104,19 +104,19 @@ The Customer Feedback Sentiment Analysis web application aims to empower restaur
 ## HTML Pages of the project
 
 Home Page:
-![Screenshot (21).png](..%2F..%2FOneDrive%2FPictures%2FScreenshots%2FScreenshot%20%2821%29.png)
+![Screenshot (21)](https://github.com/yp723/Analyzing_Customer_Feedback_Sentiments_for_Restaurants/assets/81978809/d3919981-8d37-4b8e-84bd-8880778f9d78)
 
 Prediction Page:
-![Screenshot (22).png](..%2F..%2FOneDrive%2FPictures%2FScreenshots%2FScreenshot%20%2822%29.png)
+![Screenshot (22)](https://github.com/yp723/Analyzing_Customer_Feedback_Sentiments_for_Restaurants/assets/81978809/ae4e232b-e210-47d1-a56a-a8b930df77e9)
 
 About Page:
-![Screenshot (23).png](..%2F..%2FOneDrive%2FPictures%2FScreenshots%2FScreenshot%20%2823%29.png)
+![Screenshot (23)](https://github.com/yp723/Analyzing_Customer_Feedback_Sentiments_for_Restaurants/assets/81978809/9d114f6c-b6ef-41b2-b90e-7f51df284761)
 
 Good Review Prediction:
-![Screenshot (25).png](..%2F..%2FOneDrive%2FPictures%2FScreenshots%2FScreenshot%20%2825%29.png)
+![Screenshot (25)](https://github.com/yp723/Analyzing_Customer_Feedback_Sentiments_for_Restaurants/assets/81978809/a03fb3e7-f1db-4e45-945c-19706b55a843)
 
 Average Review Prediction:
-![Screenshot (27).png](..%2F..%2FOneDrive%2FPictures%2FScreenshots%2FScreenshot%20%2827%29.png)
+![Screenshot (27)](https://github.com/yp723/Analyzing_Customer_Feedback_Sentiments_for_Restaurants/assets/81978809/c81343dc-1b82-4f61-a0a7-05ee62a8df81)
 
 Bad Review Prediction:
-![Screenshot (26).png](..%2F..%2FOneDrive%2FPictures%2FScreenshots%2FScreenshot%20%2826%29.png)
+![Screenshot (26)](https://github.com/yp723/Analyzing_Customer_Feedback_Sentiments_for_Restaurants/assets/81978809/1b1ea4cf-2cc8-4295-a459-2a9bbc4b4ccd)
