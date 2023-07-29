@@ -54,24 +54,24 @@ The Customer Feedback Sentiment Analysis web application utilizes the following 
 - Data Collection
 - Text Pre-processing
 - Import the Libraries.
-  importing the dataset
-  Remove Punctuations
-  Convert each word into a lower case.
-  Stemming.
-  Splitting Data into Train and Test.
+  - importing the dataset
+  - Remove Punctuations
+  - Convert each word into a lower case.
+  - Stemming.
+  - Splitting Data into Train and Test.
 - Model Building
-  import the model building Libraries
-  Initializing the model
-  Adding Input Layer
-  Adding Hidden Layer
-  Adding Output Layer
-  Configure the Learning Process
+  - import the model building Libraries
+  - Initializing the model
+  - Adding Input Layer
+  - Adding Hidden Layer
+  - Adding Output Layer
+  - Configure the Learning Process
 - Training and testing the model
-  Optimize the Model
-  Save the Model
+  - Optimize the Model
+  - Save the Model
 - Application Building
-  Build HTML Page
-  Build python Code
+  - Build HTML Page
+  - Build python Code
 
 ## How to Use
 
